@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    font-family: "DM Sans", system-ui, sans-serif;
+    background-color: var(--color-gray-200);
+  }
+
+  p {
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  @font-face {
+    font-family: "DM Sans";
+    src: url("/src/assets/fonts/DMSans-VF.ttf") format("truetype-variations");
+    font-weight: 400 500; /* This specifies the weight range */
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "DM Sans";
+    src: url("/src/assets/fonts/DMSans-Italic-VF.ttf") format("truetype-variations");
+    font-weight: 400 500;
+    font-style: italic;
+  }
+}
+
+@theme {
+  --color-purple-100: hsl(254, 88%, 90%);
+  --color-purple-500: hsl(256, 67%, 59%);
+  --color-yellow-100: hsl(31, 66%, 93%);
+  --color-yellow-500: hsl(39, 100%, 71%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-black: hsl(0, 0%, 7%);
+}

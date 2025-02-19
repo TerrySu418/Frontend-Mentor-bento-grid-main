@@ -21,8 +21,8 @@ This project is a responsive dashboard layout built using React and Tailwind CSS
 ![Project Screenshot](./Screenshot.png)
 
 ## Links
-- Live Site URL: [Add your live site URL here]
-- Repository URL: [Add your repository URL here]
+- Live Site URL: [Add your live site URL here](https://terrysu418.github.io/Frontend-Mentor-bento-grid-main/)
+- Repository URL: [Add your repository URL here](https://github.com/TerrySu418/Frontend-Mentor-bento-grid-main)
 
 ## Built With
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces

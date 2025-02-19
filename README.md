@@ -18,7 +18,7 @@ This project is a responsive dashboard layout built using React and Tailwind CSS
 - Flexible row and column spanning
 
 ## Screenshot
-[Project Screenshot](./Screenshot.png)
+![Project Screenshot](./Screenshot.png)
 
 ## Links
 - Live Site URL: [Add your live site URL here]
